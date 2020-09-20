@@ -1,7 +1,7 @@
-package com.tdd.products.products.controller;
+package com.marketplace.products.controller;
 
-import com.tdd.products.products.model.Product;
-import com.tdd.products.products.service.ProductService;
+import com.marketplace.products.model.Product;
+import com.marketplace.products.service.ProductService;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;

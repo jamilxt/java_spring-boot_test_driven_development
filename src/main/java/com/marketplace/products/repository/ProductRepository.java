@@ -1,6 +1,7 @@
-package com.tdd.products.products.repository;
+package com.marketplace.products.repository;
 
-import com.tdd.products.products.model.Product;
+
+import com.marketplace.products.model.Product;
 import org.springframework.data.repository.CrudRepository;
 
 public interface ProductRepository extends CrudRepository<Product, Integer> {
