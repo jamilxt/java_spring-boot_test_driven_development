@@ -1,7 +1,7 @@
-package com.tdd.products.products.service;
+package com.marketplace.products.service;
 
-import com.tdd.products.products.repository.ProductRepository;
-import com.tdd.products.products.model.Product;
+import com.marketplace.products.model.Product;
+import com.marketplace.products.repository.ProductRepository;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
